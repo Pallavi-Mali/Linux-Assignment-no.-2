@@ -19,7 +19,7 @@ else
 		{
 	 	 printf("Child 2 started: %d\n", getpid());
 	 	 printf("Parent PID of Child 2: %d\n", getppid());
-	 	 //execl("/home/ameysystem/static_main", "./static_main", 0);			
+	 	 //execl("/home/pallavi/static_main", "./static_main", 0);			
 		}
 	 else
 		{
